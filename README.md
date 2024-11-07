@@ -1,6 +1,6 @@
 # ChurnWise
 
-Developed a machine learning model using ANN architecture to analyze customer behavior and predict churn probability.
+Developed a deeplearning model using ANN architecture to analyze customer behavior and predict churn probability.
 
 
 Link to notebook:
